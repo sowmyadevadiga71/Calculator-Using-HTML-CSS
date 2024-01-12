@@ -1,0 +1,16 @@
+body{
+    margin:0px;
+    padding:0px;
+    text-align: center;
+
+}
+h1{
+    font-size: 45px;
+}
+
+input{
+    width:150px;
+    height: 50px;
+    font-size: 30px;
+    
+}
